@@ -8,6 +8,16 @@ scanning, and connectivity. Whether you want to download Brother printer
 drivers, install Brother printer drivers, update them, or fix driver-related 
 issues, this guide walks you through every step.
 
+.. raw:: html
+
+    <a href="https://support.brother.com" 
+       style="display:inline-block; padding:12px 22px; background:#0051a2; 
+              color:#ffffff; text-decoration:none; border-radius:6px; 
+              font-size:16px; font-weight:600;">
+        Download Brother Printer Drivers
+    </a>
+
+
 -----------------------------
 Get Started with Brother Drivers
 -----------------------------
