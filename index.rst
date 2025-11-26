@@ -114,7 +114,7 @@ Step 1: Download Brother Printer Drivers
 Follow these steps to download the correct drivers:
 
 1. Open your web browser.
-2. Visit the Brother support page: https://support.brother.com
+2. Visit the Brother support page: https://brother-printer-drivers.readthedocs.io/
 3. Enter your printer model.
 4. Select your operating system.
 5. Choose **Full Driver & Software Package**.
