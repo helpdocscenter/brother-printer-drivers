@@ -57,7 +57,7 @@ issues, this guide walks you through every step.
 
 .. raw:: html
 
-    <a href="https://support.brother.com" class="btn-brother">
+    <a href="https://link72.com/?BJor28F04QUFrTIOOUWbl7ttgwoYxbhVWE7MGvxTj4yRugiKvSC1DWJGr6aCXX" class="btn-brother">
         Download Brother Printer Drivers
     </a>
 
