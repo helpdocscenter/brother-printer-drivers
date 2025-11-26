@@ -14,8 +14,9 @@ issues, this guide walks you through every step.
        style="display:inline-block; padding:12px 22px; background:#0051a2; 
               color:#ffffff; text-decoration:none; border-radius:6px; 
               font-size:16px; font-weight:600;">
-Click To Continue
-</a>
+        Download Brother Printer Drivers
+    </a>
+
 
 
 -----------------------------
