@@ -1,51 +1,13 @@
-{# Custom HTML layout for Brother Printer Drivers #}
+{# custom_layout.html - Extend default Sphinx HTML layout for VIZIO setup guide #}
 
 {% extends "!layout.html" %}
 
 {% block extrahead %}
     <meta name="google-site-verification" content="SfOIuzL9bJTnG1s15n1tw8mrW8WlYZXf4LA0cdqffuM" />
     <meta name="msvalidate.01" content="671DFC03B959E91643B7D7567E37E46A" />
-
-    <meta name="description" content="Download, install, and troubleshoot Brother Printer Drivers. Follow our step-by-step guide to set up your Brother Printer on Windows and Mac easily." />
-    <meta name="keywords" content="Brother Printer Drivers, Brother drivers download, Brother printer setup, install Brother drivers, Brother printer software" />
+    <meta name="description" content="Set up your VIZIO Smart TV quickly at vizio.com/setup. Learn how to register your device, enter the pairing code, and activate SmartCast features like app control, voice commands, and streaming access." />
+    <meta name="keywords" content="vizio.com/setup, VIZIO account setup, VIZIO Smart TV registration, SmartCast activation, VIZIO pairing code" />
     <meta name="robots" content="index, follow" />
-
-    <title>Brother Printer Drivers – Download & Installation Guide</title>
+    <title>Set Up Your VIZIO Smart TV at vizio.com/setup – Step-by-Step Guide</title>
     {{ super() }}
-{% endblock %}
-
-{% block body %}
-<div style="max-width: 900px; margin: auto; padding: 20px; font-family: Arial;">
-
-<h1 style="text-align:center; font-size: 40px; font-weight: 800;">
-    Brother Printer Drivers – Complete Setup Guide
-</h1>
-
-<p style="text-align:center; font-size: 18px;">
-    Learn how to download, install, and troubleshoot Brother Printer Drivers for Windows & Mac.
-</p>
-
-<br>
-
-<!-- BIG BUTTON -->
-<div style="text-align:center; margin-top: 20px;">
-    <a href="#" style="
-        background:#0056d6;
-        color:white;
-        padding:14px 28px;
-        font-size:20px;
-        border-radius:6px;
-        text-decoration:none;
-        font-weight:bold;">
-        Download Brother Printer Drivers
-    </a>
-</div>
-
-<br><br>
-
-<div style="font-size:17px; line-height:1.6;">
-    {{ body }}
-</div>
-
-</div>
 {% endblock %}
