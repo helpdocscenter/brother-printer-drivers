@@ -1,3 +1,50 @@
+.. raw:: html
+
+    <style>
+        /* Main title */
+        h1 {
+            font-size: 34px !important;
+            font-weight: 700 !important;
+            margin-bottom: 18px;
+        }
+
+        /* Section headings (H2) */
+        h2 {
+            font-size: 26px !important;
+            font-weight: 600 !important;
+            margin-top: 40px !important;
+            margin-bottom: 10px !important;
+        }
+
+        /* Sub-headings (H3) */
+        h3 {
+            font-size: 22px !important;
+            font-weight: 600 !important;
+            margin-top: 25px !important;
+            margin-bottom: 8px !important;
+        }
+
+        /* Normal text */
+        p, li {
+            font-size: 16px !important;
+            line-height: 1.6 !important;
+        }
+
+        /* Button styling */
+        .btn-brother {
+            display: inline-block;
+            padding: 12px 24px;
+            background: #0051a2;
+            color: #ffffff;
+            text-decoration: none;
+            border-radius: 6px;
+            font-size: 18px;
+            font-weight: 600;
+            margin: 15px 0;
+        }
+    </style>
+
+
 ===========================================================
 How to Download, Install & Update Brother Printer Drivers
 ===========================================================
@@ -10,18 +57,14 @@ issues, this guide walks you through every step.
 
 .. raw:: html
 
-    <a href="https://support.brother.com" 
-       style="display:inline-block; padding:12px 22px; background:#0051a2; 
-              color:#ffffff; text-decoration:none; border-radius:6px; 
-              font-size:16px; font-weight:600;">
+    <a href="https://support.brother.com" class="btn-brother">
         Download Brother Printer Drivers
     </a>
 
 
 
------------------------------
 Get Started with Brother Drivers
------------------------------
+================================
 
 Brother offers a wide range of printers including laser printers, inkjet 
 printers, label printers, and all-in-one devices. Updated drivers help with:
@@ -32,9 +75,10 @@ printers, label printers, and all-in-one devices. Updated drivers help with:
 - Fewer printing errors  
 - Firmware compatibility  
 
------------------------------------------
+
+
 Understanding Brother Printer Driver Types
------------------------------------------
+==========================================
 
 Before you begin installing Brother Printer Drivers, identify the driver you need:
 
@@ -50,9 +94,10 @@ Before you begin installing Brother Printer Drivers, identify the driver you nee
 **Firmware Update Tool**  
   Updates your printer firmware for improved performance.
 
------------------------------
+
+
 Finding Your Printer Model
------------------------------
+==========================
 
 You can find your Brother printer model on:
 
@@ -61,9 +106,10 @@ You can find your Brother printer model on:
 - Printer’s device info menu  
 - Purchase receipt  
 
---------------------------------------------
+
+
 Step 1: Download Brother Printer Drivers
---------------------------------------------
+========================================
 
 Follow these steps to download the correct drivers:
 
@@ -76,13 +122,13 @@ Follow these steps to download the correct drivers:
 
 **Tip:** Always download drivers from the official Brother website.
 
---------------------------------------------
-Step 2: Install Drivers on Windows or Mac
---------------------------------------------
 
-=================
+
+Step 2: Install Drivers on Windows or Mac
+=========================================
+
 Windows Installation
-=================
+--------------------
 
 1. Go to the **Downloads** folder.
 2. Open the downloaded `.EXE` file.
@@ -92,9 +138,8 @@ Windows Installation
 6. Follow the on-screen instructions.
 7. Print a test page.
 
-===============
 Mac Installation
-===============
+----------------
 
 1. Open the downloaded `.DMG` file.
 2. Run the installer package.
@@ -102,29 +147,29 @@ Mac Installation
 4. Connect your printer when prompted.
 5. Complete installation.
 
-------------------------------------
-Step 3: Connect Your Brother Printer
-------------------------------------
 
-=========
+
+Step 3: Connect Your Brother Printer
+====================================
+
 USB Setup
-=========
+---------
 
 - Connect the USB cable to your computer and printer.
 - The installer will detect the connection automatically.
 
-=============
 Wireless Setup
-=============
+--------------
 
 1. Connect your printer to WiFi via the control panel.
 2. Use WPS or manually select your network.
 3. Run the installer and choose **Wireless Setup**.
 4. Complete the connection.
 
-----------------------------------------------
+
+
 Troubleshooting Brother Driver Installation
-----------------------------------------------
+===========================================
 
 If you face issues during installation:
 
@@ -135,9 +180,10 @@ If you face issues during installation:
 - Remove old drivers  
 - Check USB cable  
 
------------------------------------
+
+
 Why Driver Installation Matters
------------------------------------
+===============================
 
 Installing the correct Brother Printer Drivers ensures:
 
@@ -147,9 +193,10 @@ Installing the correct Brother Printer Drivers ensures:
 - Access to advanced features  
 - Compatibility with updates  
 
----------------------------------------
+
+
 Keeping Brother Drivers Updated
----------------------------------------
+===============================
 
 To update:
 
@@ -159,29 +206,32 @@ To update:
 
 Or manually download the latest drivers from the Brother website.
 
--------------------------------------------------
+
+
 Reinstalling Brother Drivers on Any Device
--------------------------------------------------
+==========================================
 
 1. Uninstall old drivers.
 2. Restart your computer.
 3. Download the latest drivers.
 4. Install and reconnect your printer.
 
--------------------------------------
+
+
 Managing Brother Printer Tools
--------------------------------------
+==============================
 
 Brother provides several tools:
 
-- **ControlCenter4/2** – for scanning and OCR
-- **Wireless Setup Wizard**
-- **Print Status Monitor**
-- **Brother Utilities Dashboard**
+- **ControlCenter4/2** – for scanning and OCR  
+- **Wireless Setup Wizard**  
+- **Print Status Monitor**  
+- **Brother Utilities Dashboard**  
 
-----------------------------------
+
+
 Security Tips After Installation
-----------------------------------
+===============================
 
 - Update firmware regularly  
 - Change default WiFi passwords  
@@ -189,9 +239,10 @@ Security Tips After Installation
 - Use genuine Brother toner/ink  
 - Keep drivers updated  
 
----------------
+
+
 Final Thoughts
----------------
+==============
 
 Downloading and installing the right **Brother Printer Drivers** ensures 
 smooth printing, scanning, and stable connectivity on Windows and macOS. 
